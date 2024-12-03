@@ -56,7 +56,7 @@ Bu proje, Django tabanlı bir kullanıcı detay izleme ve yönetim sistemidir. P
    python manage.py migrate
    ```
 
-3. **Sunucuyu Çalıştırın:**
+3. **Sunucuyu Çalıştırın:**<br>
    **Not:** docker olmadan test için settings.py içinde database ayarında host alanını 'db' yerine 'localhost' yada sunucunuzu yazınız.
    ```bash
    python manage.py runserver

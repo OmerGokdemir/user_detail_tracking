@@ -121,8 +121,11 @@ This project is licensed under the [MIT License](LICENCE).
 
 Omer Gokdemir
 📧 omer66gokdemir@gmail.com
+
 🌐 [LinkedIn](https://www.linkedin.com/in/omer-gokdemir/)
+
 🐙 [GitHub](https://github.com/OmerGokdemir)
+
 📦 [Upwork](https://www.upwork.com/freelancers/~01cf80f9e22cf120e3)
 
 ****

@@ -120,6 +120,7 @@ This project is licensed under the [MIT License](LICENCE).
 ## 🔗 Developer Info
 
 Omer Gokdemir
+
 📧 omer66gokdemir@gmail.com
 
 🌐 [LinkedIn](https://www.linkedin.com/in/omer-gokdemir/)
